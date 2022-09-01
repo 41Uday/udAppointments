@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.list-element {
+  height: 150px;
+  width: 250px;
+  margin: 20px;
+  border: 1px solid #b5b7c4;
+  border-radius: 15px;
+  padding: 20px;
+}
+.list-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img-list {
+  width: 20px;
+}
+.list-butt {
+  background-color: transparent;
+  border-width: 0;
+}
+
+@media screen and (max-width: 768px) {
+}
